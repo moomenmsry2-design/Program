@@ -52,7 +52,7 @@ namespace MyFirstProgram
             Console.WriteLine(" Now it's time to guees ! insert a number : ");
             int guess = int.Parse(Console.ReadLine());
 
-            if (a1 == "yes")
+            if (a1 == "yes")//
             {
                 Console.WriteLine(" ");
                 Console.WriteLine(" Ok! , here is the  instructions : ");
